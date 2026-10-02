@@ -8,15 +8,15 @@
 
   <p align="center">
     🚀 Crafting scalable, responsive, and performance-driven web applications.<br/>
-    💡 Building modern full-stack systems with <b>React, Node.js, Prisma & WebSockets</b>.
+    💡 Building modern full-stack systems with <b>React, Node.js</b>.
   </p>
 
   <!-- Social Badges -->
   <p align="center">
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <a href="https://www.linkedin.com/in/sandeep-singh-289a10325/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+    <a href="sandeepsingh.tech27@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
     <a href="https://github.com/Sandeep405812" target="_blank">
@@ -32,7 +32,6 @@
 
 - 🔭 **Current Focus:** Building production-ready Full Stack applications with scalable architecture.
 - 💻 **Core Expertise:** JavaScript / TypeScript, React.js, Node.js, Express, Prisma ORM, MongoDB.
-- ⚡ **Real-Time Tech:** WebSockets (`Socket.IO`) & Containerization with `Docker`.
 - 🧠 **Problem Solving:** Data Structures & Algorithms with C++ (STL).
 - 🎯 **Goal:** Contributing to high-impact open source & engineering scalable web systems.
 
@@ -58,14 +57,7 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">💼 Enterprise CRM Portal</h3>
-      <p>A full-stack Customer Relationship Management portal featuring authentication, customer pipelines, PDF generation, and Dockerized deployment.</p>
-      <p><b>Tech Stack:</b> React, Node.js, Express, Prisma ORM, Zod, jsPDF, Docker</p>
-      <p>
-        <a href="https://github.com/Sandeep405812/crm_portal">📂 Repository</a> •
-        <a href="https://github.com/Sandeep405812/crm_portal">🔗 View Architecture</a>
-      </p>
+    
     </td>
     <td width="50%" valign="top">
       <h3 align="center">🏥 Real-Time Hospital Management System</h3>
